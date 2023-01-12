@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a265485022052a75",
+        "id": "e010771c37177da4",
         "type": "tabs",
         "children": [
           {
-            "id": "f50467e2ab121dd8",
+            "id": "96ae65494bdd2436",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning Paths/Red Teaming/Compromising Active Directory/Attacking Kerberos/Resources.md",
+                "file": "Learning Paths/Complete beginner/Linux Fandamentals/Linux Fandamentals Pars 3/Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning Paths/Red Teaming/Compromising Active Directory/Attacking Kerberos/Resources.md",
+                "file": "Learning Paths/Complete beginner/Linux Fandamentals/Linux Fandamentals Pars 3/Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning Paths/Red Teaming/Compromising Active Directory/Attacking Kerberos/Resources.md",
+                "file": "Learning Paths/Complete beginner/Linux Fandamentals/Linux Fandamentals Pars 3/Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning Paths/Red Teaming/Compromising Active Directory/Attacking Kerberos/Resources.md"
+                "file": "Learning Paths/Complete beginner/Linux Fandamentals/Linux Fandamentals Pars 3/Commands.md"
               }
             }
           }
@@ -146,8 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f50467e2ab121dd8",
+  "active": "96ae65494bdd2436",
   "lastOpenFiles": [
+    "README.md",
+    "Learning Paths/Complete beginner/Linux Fandamentals/Linux Fandamentals Pars 3/Commands.md",
+    "Learning Paths/Red Teaming/Compromising Active Directory/Attacking Kerberos/Resources.md",
+    "Learning Paths/Complete beginner/Linux Fandamentals/Linux Fandamentals Pars 1/Commands.md",
+    "Learning Paths/Complete beginner/Linux Fandamentals/Linux Fandamentals Pars 2/Commands.md",
     "Learning Paths/Red Teaming/Compromising Active Directory/Attacking Kerberos/Different commands.md"
   ]
 }
